@@ -1,0 +1,14 @@
+C:\Users\trist\vsc\C#\lab02\lab02\bin\Debug\net9.0\lab02.exe
+C:\Users\trist\vsc\C#\lab02\lab02\bin\Debug\net9.0\lab02.deps.json
+C:\Users\trist\vsc\C#\lab02\lab02\bin\Debug\net9.0\lab02.runtimeconfig.json
+C:\Users\trist\vsc\C#\lab02\lab02\bin\Debug\net9.0\lab02.dll
+C:\Users\trist\vsc\C#\lab02\lab02\bin\Debug\net9.0\lab02.pdb
+C:\Users\trist\vsc\C#\lab02\lab02\obj\Debug\net9.0\lab02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trist\vsc\C#\lab02\lab02\obj\Debug\net9.0\lab02.AssemblyInfoInputs.cache
+C:\Users\trist\vsc\C#\lab02\lab02\obj\Debug\net9.0\lab02.AssemblyInfo.cs
+C:\Users\trist\vsc\C#\lab02\lab02\obj\Debug\net9.0\lab02.csproj.CoreCompileInputs.cache
+C:\Users\trist\vsc\C#\lab02\lab02\obj\Debug\net9.0\lab02.dll
+C:\Users\trist\vsc\C#\lab02\lab02\obj\Debug\net9.0\refint\lab02.dll
+C:\Users\trist\vsc\C#\lab02\lab02\obj\Debug\net9.0\lab02.pdb
+C:\Users\trist\vsc\C#\lab02\lab02\obj\Debug\net9.0\lab02.genruntimeconfig.cache
+C:\Users\trist\vsc\C#\lab02\lab02\obj\Debug\net9.0\ref\lab02.dll

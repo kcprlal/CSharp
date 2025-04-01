@@ -1,0 +1,3 @@
+interface IBuyTicket{
+    void BuyTicket();
+}
