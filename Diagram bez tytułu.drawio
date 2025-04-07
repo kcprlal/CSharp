@@ -381,8 +381,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="J0wMxUl4QDmEpv4CLvwP-1" value="If constructor is not specified use default" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
-          <mxGeometry x="680" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="J0wMxUl4QDmEpv4CLvwP-1" value="If constructor is not specified use default all function has to implement setters and getters to their fields" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="680" y="230" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="J0wMxUl4QDmEpv4CLvwP-2" value="When crwaler got selfdestructed or rocket got launched it must be deleted from Vehicle list" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="30" y="920" width="180" height="90" as="geometry" />
