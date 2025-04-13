@@ -1,0 +1,18 @@
+# Ignore all .vscode folders
+**/.vscode/
+
+# VS/JetBrains junk
+*.user
+*.suo
+*.cache
+*.idea/
+*.iml
+
+# Build artifacts
+bin/
+obj/
+build/
+
+# OS stuff
+.DS_Store
+Thumbs.db
